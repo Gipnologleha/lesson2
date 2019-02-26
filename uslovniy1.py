@@ -17,5 +17,3 @@ else: print ('0')
 if len(a) < len (b):
     print ('3')
 else: print ('2')
-
-
